@@ -1,0 +1,24 @@
+{
+  "name": "Example",
+  "version": "0.0.0",
+  "authors": [
+    "Manuel Odelain <manu.odelain@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/js/lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13",
+    "angular-animate": "~1.3.13"
+  }
+}
